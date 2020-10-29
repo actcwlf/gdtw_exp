@@ -7,7 +7,7 @@ from scipy.optimize import minimize
 
 from sdtw import SoftDTW
 from sdtw.distance import SquaredEuclidean
-from gsfdtw import FSDTW, GFSDTW
+from fsdtw import FSDTW, GFSDTW
 import matplotlib.pyplot as plt
 
 
