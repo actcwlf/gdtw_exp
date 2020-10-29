@@ -1,7 +1,7 @@
 # gdtw_exp
 Experiment code for "GDTW: A Novel Differential DTW Loss For Time Series Tasks“
 
-Full implementation will be available soon.
+For full implementation, please contact actcwlf@163.com
 ## Usage
 Barycenter task
 ```bash
