@@ -18,3 +18,6 @@ Classification task2
 ```bash
 python classify_d.py
 ```
+
+## Acknowledgement
+We would like to thank the providers of the [UCR archive](http://www.timeseriesclassification.com/)
